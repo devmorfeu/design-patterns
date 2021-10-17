@@ -18,11 +18,11 @@ Exemplos de design patterns;
 
 #### Factory Method
 
-![alt text](img/return-json-example.PNG)
+![alt text](img/factory-method.PNG)
 
 #### Abstract Factory
   
-![alt text](img/return-xml-example.PNG)
+![alt text](img/abstract-factory.PNG)
 
 #### Builder
   
