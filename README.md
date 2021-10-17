@@ -26,16 +26,16 @@ Exemplos de design patterns;
 
 #### Builder
   
-![alt text](img/return-xml-example.PNG)
+![alt text](img/builder.png)
 
 #### Adapter
   
-![alt text](img/return-yaml-example.PNG)
+![alt text](img/adapter.png)
   
 #### Bridge
 
-![alt text](img/return-yaml-example.PNG)
+![alt text](img/bridge.png)
 
 #### Chain of Responsibility
 
-![alt text](img/return-yaml-example.PNG)
+![alt text](img/chain-of-responsibility.png)
